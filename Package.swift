@@ -23,8 +23,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "arkdrop_uniffiFFI",
-            url: "https://github.com/phuhk/arkdrop-swift-binaries/releases/download/v1.0.0-swift-bindings/arkdrop_uniffiFFI.xcframework.zip",
-            checksum: "dbe484a8a3a5bb5d812426e3f7454db83cf823119714b0e18b50e81fb1a8343a"
+            url: "https://github.com/phuhk/arkdrop-swift-binaries/releases/download/v1.0.0-arkdrop-swift-binaries/arkdrop_uniffiFFI.xcframework.zip",
+            checksum: "6c7db0e8f63e6f1362291a16d6d32ccc965bfdb49251efccd27ad37608d37d8c"
         )
     ]
 )
